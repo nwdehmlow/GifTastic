@@ -1,0 +1,27 @@
+.btn{
+	margin: 5px;
+	letter-spacing: 2.5px;
+	font-weight: bold;
+	border-radius: 10px;
+	border-width: 2px;
+}
+
+#muppetsbuttons{
+	text-align: center;
+}
+
+.container {
+	text-align: center;
+}
+
+#write-in{
+	float:right; 
+	margin-top:90px; 
+	margin-right: 100px; 
+	display: inline-block;
+}
+
+#gifs{
+	 float:left; 
+	 margin-left: 50px;
+}
